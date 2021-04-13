@@ -2,7 +2,7 @@ package arrays.solution3;
 
 /**
  * @author Ozzy Yang
- * Finished Time：2021-04-02
+ * Finished Time：2021-04-0
  */
 public class Solution3 {
     public int findRepeatNumber(int[] nums) {
