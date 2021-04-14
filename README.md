@@ -8,4 +8,4 @@
   - [字符串-strings](./DataStructure/src/strings)
     - Solution5：替换空格
   - [字符串-linkedlist](./DataStructure/src/linkedlist)
-     -Solution6：从尾向前遍历链表
+    - Solution6：从尾向前遍历链表
