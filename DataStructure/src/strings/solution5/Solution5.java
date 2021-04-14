@@ -2,6 +2,7 @@ package strings.solution5;
 
 /**
  * @author Ozzy Yang
+ * Finished time:2021-04-13
  */
 public class Solution5 {
     public String replaceSpace(String s) {
