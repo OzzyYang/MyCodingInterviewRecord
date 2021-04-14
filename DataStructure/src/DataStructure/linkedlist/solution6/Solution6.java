@@ -1,4 +1,4 @@
-package linkedlist.solution6;
+package DataStructure.linkedlist.solution6;
 
 import java.util.Stack;
 
@@ -21,7 +21,7 @@ public class Solution6 {
     }
 
     public int[] reversePrint(ListNode head) {
-        return changeSolution(head);
+        return stackSolution(head);
     }
 
     /**

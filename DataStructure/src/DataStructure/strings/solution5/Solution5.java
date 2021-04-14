@@ -1,4 +1,4 @@
-package strings.solution5;
+package DataStructure.strings.solution5;
 
 /**
  * @author Ozzy Yang

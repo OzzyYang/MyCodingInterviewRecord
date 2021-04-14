@@ -1,4 +1,4 @@
-package arrays.solution3;
+package DataStructure.arrays.solution3;
 
 /**
  * @author Ozzy Yang
